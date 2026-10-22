@@ -56,3 +56,14 @@ Estudiante de la asignatura de Programación Orientada a Objetos.
 - `Cortometraje` hereda de `ContenidoAudiovisual`.
 
 Estas relaciones permiten aplicar conceptos de Programación Orientada a Objetos, como la herencia y la asociación entre clases.
+## Verificación del sistema
+
+Se utiliza la clase `PruebaSistema` para comprobar el funcionamiento de las clases del proyecto.
+
+Durante la prueba se crean objetos de tipo película, serie de televisión, documental, video de YouTube y cortometraje. También se comprueba la asociación de actores, temporadas e investigadores.
+
+Los resultados se muestran en la consola de Eclipse.
+
+## Conclusión
+
+El proyecto permite practicar la creación de clases, atributos, constructores, métodos, herencia y asociaciones entre objetos utilizando Java.
