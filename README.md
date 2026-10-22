@@ -32,3 +32,18 @@ El sistema se ejecuta mediante la clase `PruebaSistema`, que crea objetos y mues
 
 ## Autor
 Estudiante de la asignatura de Programación Orientada a Objetos.
+## Cómo ejecutar el proyecto
+
+1. Abrir Eclipse IDE.
+2. Importar o abrir el proyecto Java.
+3. Buscar la clase `PruebaSistema.java`.
+4. Hacer clic derecho sobre el archivo.
+5. Seleccionar **Run As → Java Application**.
+6. Revisar los resultados en la consola.
+
+## Funcionalidades
+- Registrar y mostrar información de películas.
+- Asociar actores a películas.
+- Asociar temporadas a series de televisión.
+- Asociar investigadores a documentales.
+- Mostrar información de videos de YouTube y cortometrajes.
