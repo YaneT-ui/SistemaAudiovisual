@@ -47,3 +47,12 @@ Estudiante de la asignatura de Programación Orientada a Objetos.
 - Asociar temporadas a series de televisión.
 - Asociar investigadores a documentales.
 - Mostrar información de videos de YouTube y cortometrajes.
+## Relaciones entre clases
+
+- `Pelicula` hereda de `ContenidoAudiovisual` y puede tener varios actores.
+- `SerieDeTV` hereda de `ContenidoAudiovisual` y contiene temporadas.
+- `Documental` hereda de `ContenidoAudiovisual` e incluye investigadores.
+- `VideoYouTube` hereda de `ContenidoAudiovisual`.
+- `Cortometraje` hereda de `ContenidoAudiovisual`.
+
+Estas relaciones permiten aplicar conceptos de Programación Orientada a Objetos, como la herencia y la asociación entre clases.
